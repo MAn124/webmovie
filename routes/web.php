@@ -3,7 +3,12 @@
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\IndexController;
-use App\Http\Controllers\HomeController;
+use App\Http\Controllers\MovieController;
+use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\CountryController;
+use App\Http\Controllers\GenreController;
+use App\Http\Controllers\EpisodeController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
